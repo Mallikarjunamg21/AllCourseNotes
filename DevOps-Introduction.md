@@ -85,4 +85,3 @@ $ sudo add-apt-repository "deb https://download.sublimetext.com/ apt/stable/"
 
 $ sudo apt install sublime-text
 
-
